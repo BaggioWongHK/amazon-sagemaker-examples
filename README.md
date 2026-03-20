@@ -2,6 +2,10 @@
 
 # :exclamation::fire: Announcing SageMaker-Core: A New Python SDK for Amazon SageMaker :fire::exclamation:
 
+## Just a test
+
+Hello. 
+
 ## Introduction
 Today, Amazon SageMaker is excited to announce the release of SageMaker-Core, a new Python SDK that provides an object-oriented interface for interacting with SageMaker resources such as TrainingJob, Model, and Endpoint. This SDK introduces the resource chaining feature, allowing developers to pass resource objects as parameters, eliminating manual parameter specification and simplifying code management. SageMaker-Core abstracts low-level details like resource state transitions and polling logic, achieving full parity with SageMaker APIs. It also includes usability improvements such as auto code completion, comprehensive documentation, and type hints, enhancing the overall developer experience.
 
